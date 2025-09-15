@@ -1,0 +1,57 @@
+html {
+    font-family: Verdana;
+    text-align: center;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+table {
+    margin: auto;
+    width: 80%;
+}
+th{
+    background-color: #5BBB77;
+    font-size: 16px;
+    height: 40px;
+}
+.nieparzysty {
+    background-color: #FDFAAA;
+}
+header{
+    background-color: #FDFAAA;
+    color: #5BBB77;
+    padding: 10px;
+    text-shadow: 5px 5px 10px black;
+}
+main {
+   display: flex;
+}
+#left {
+    background-color: #FFA6A6;
+    width: 79%;
+    height: 600px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right: auto;
+    box-shadow: 5px 6px 10px black;
+ 
+}
+#right {
+    background: linear-gradient(#FDFAAA,#5BBB77);
+    width: 20%;
+    height: 630px;
+  
+}
+footer {
+    background-color: #5BBB77;
+    color: #FFF555;
+    font-weight: bold;
+    font-size: 120%;
+    padding: 15px;
+}
+ul{
+    list-style: square;
+    line-height: 1.5;
+}
+h4 {
+    color:  green;
+}
